@@ -25,7 +25,7 @@ function App() {
 
   return (
     <>
-      <h1>Weather Comparator</h1>
+      <h1 className="text-3xl font-bold underline">Weather Comparator</h1>
     </>
   );
 }
